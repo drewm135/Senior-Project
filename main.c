@@ -9,6 +9,15 @@
  */
 
 /*
+ * Other method added in local master branch
+ */
+int testMasterMethod() {
+	int x;
+	x = 5;
+	return x + 7;
+}
+
+/*
  * main.c
  */
 int main(void) {
