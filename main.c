@@ -8,6 +8,11 @@
  *
  */
 
+// Method created in local branch: KeithTestBranch
+int testMethod() {
+
+	return 0;
+}
 /*
  * main.c
  */
