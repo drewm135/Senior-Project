@@ -1,7 +1,9 @@
 /*
- * (This comment can be deleted)
+ * (This comment can be deleted) - Keith
  * Testing Git
- * -Keith
+ *
+ * Commit 2
+ *
  */
 
 /*
